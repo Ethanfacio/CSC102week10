@@ -1,0 +1,26 @@
+nav{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+body{
+    background-color: violet;
+
+}
+
+p{
+    color: whitesmoke;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+nav{
+    color: purple;
+}
+
